@@ -1,0 +1,12 @@
+There are different sub programs that makes up a program.
+
+The browser has 3 programs
+
+DOM takes our HTML code and covert it to a structured program that can be visually seen
+
+CSS Pusle takes css code and make sure the document is rendered well using a rendering engine to work on the HTML
+and css
+
+Javascript engine is in all browser chrome v8 engine its job is to take the js syntax and convert it to 
+machine language understandable by the computer JIT Compilers 
+
